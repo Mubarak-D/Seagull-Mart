@@ -13,7 +13,7 @@ const trustPoints = [
   },
   {
     title: "Loved by Customers",
-    description: "Consistently praised across 30+ reviews for friendly, helpful customer service and safe regional delivery.",
+    description: "Consistently praised for friendly, helpful service across 30+ reviews.",
     iconColor: "text-accent bg-accent/10 border-accent/20",
     icon: (
       <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -22,8 +22,8 @@ const trustPoints = [
     ),
   },
   {
-    title: "100% Genuine Selection",
-    description: "Directly imported European and international chocolates, coffees, snacks, and sweets, curated and well-organized.",
+    title: "Imported Selection",
+    description: "Wide selection of imported chocolates, coffee, and snacks, curated and well-organized.",
     iconColor: "text-gold bg-gold/15 border-gold/35",
     icon: (
       <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

@@ -89,7 +89,7 @@ export default function Hero() {
               <span className="text-2xl">🍫</span>
               <div>
                 <p className="text-[10px] font-bold text-text-primary">Fine Chocolate</p>
-                <p className="text-[8px] text-text-secondary">Swiss & Belgian</p>
+                <p className="text-[8px] text-text-secondary">Premium European</p>
               </div>
             </div>
 
